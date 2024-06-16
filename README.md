@@ -24,17 +24,7 @@ Hello! I'm Mark M. Span, currently working at the University of Groningen as a S
 4. **[VideoCapture](https://github.com/markspan/VideoCapture)**
    - Capture video from a webcam and save it in MJPEG format with LSL marker streams.
 
-5. **[EVT2](https://github.com/markspan/EVT2)**
-   - Send markers through an EVT2 (RUG USB interface).
 
-6. **[EventExchanger](https://github.com/markspan/EventExchanger)**
-   - Another noteworthy project with a focus on C#.
-
-## Achievements
-
-- **Starstruck**
-- **Pull Shark**
-- **Arctic Code Vault Contributor**
 
 Feel free to explore my repositories and connect with me!
 
